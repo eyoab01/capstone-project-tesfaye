@@ -41,14 +41,16 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://eyoab01.github.io/tesfaye-capstone-project/)
+- [Live Demo Link](https://eyoab01.github.io/capstone-project-tesfaye/) or 
+- [Live Demo Video] https://www.loom.com/share/8e247cbf591845a0b6b5133842fb11f7
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-1.copy the repository link from github.(https://github.com/eyoab01/esfaye-capstone-project)
+1.copy the repository link from github.(https://github.com/eyoab01/capstone-project-tesfaye)
 2.open vscode on your computer clone it to your new folder.
 3.wright click on the index.html file and select open with live server.
 
@@ -62,7 +64,7 @@ vscode editor (you can download it from https://code.visualstudio.com/download)
 create a folder and name it 'my-folder'
 open with vscode editor > right click on the folder and select >open in integrated terminal option
 cd my-folder
-git clone https://github.com/eyoab01/tesfaye-capstone-project.git
+git clone https://github.com/eyoab01/capstone-project-tesfaye.git
 
 ### Usage
 
@@ -72,7 +74,7 @@ go to your project folder and right click on the index.html file and select open
 ### Run tests
 
 To run tests, do the following step:
-go to your project folder and right click on the index.html or https://eyoab01.github.io/tesfaye-capstone-project/
+go to your project folder and right click on the index.html or https://github.com/eyoab01/capstone-project-tesfaye
 
 ### Deployment
 
@@ -88,7 +90,7 @@ vscode or github.
 - GitHub: [@eyoab01](https://github.com/eyoab01)
 - Twitter: [@tesfayeteklu10](https://twitter.com/@tesfayeteklu10)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tesfaye-teklu-352067105)
-- website: [https://eyoab01.github.io/mobile-portfolio-project-final/]
+- website: [https://eyoab01.github.io/capstone-project-tesfaye/]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,7 +99,7 @@ vscode or github.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eyoab01/tesfaye-capstone-project/issues).
+Feel free to check the [issues page](https://github.com/eyoab01/capstone-project-tesfaye/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +111,7 @@ If you like this project you can support any time.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partners from microverse for supporting me to develop this page.
+I would like to give my bigest appreciation and thanks to Cindy Shin the author of the original design of the page,and also my coding partners from microverse for supporting me while i am building this page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

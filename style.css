@@ -260,6 +260,9 @@ body {
   margin-left: 550px;
   margin-right: 605px;
 }
+.grid-two-parts {
+  display: flex;
+}
 
 /* partner */
 
@@ -288,7 +291,7 @@ body {
 /* about page */
 
 .front-heading-about {
-  background-image: url(./images/main_big.png);
+  background-image: url(./images/mobile_intro_bg.png);
   display: flex;
   padding: 50px 100px 50px 100px;
 }
@@ -299,6 +302,16 @@ body {
   align-items: center;
   padding: 50px 250px 50px 250px;
   text-align: center;
+}
+.s-img {
+  display: flex;
+  justify-content: space-around;
+
+}
+.f-img {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
 }
 
 .big-heading-about {
@@ -480,9 +493,9 @@ body {
   .see-button {
     display: block;
     width: 100%;
-    border: none;
-    background-color: #0d101a;
-    color: #272a31;
+    border-color:rgb(160, 159, 159);
+    background-color: #fcfbfb;
+    color: #161515;
     padding: 14px 28px;
     font-size: 16px;
     cursor: pointer;
@@ -535,4 +548,84 @@ body {
     gap: 10px;
     padding: 0%;
   }
+
+  /*about*/
+   .front-content-about {
+    padding-left: 2px;
+    padding-right: 2px;
+
+   }
+  .big-heading-about {
+    padding-top: 50px;
+    padding-left: 2px;
+    padding-right: 2px;
+
+
+  }
+
+  .front-heading-about {
+    padding-left:  2px;
+    padding-right: 2px;
+
+  }
+  .about-section {
+    padding-left: 2px;
+    padding-right: 2px;
+
+  }
+ 
+  .about-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    column-gap: 10px;
+    padding-right: 2px;
+    padding-left: 2px;
+
+    display: block;
+  }
+  .logo-txt {
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 10px;
+  }
+
+  .about-div h1{
+    padding-bottom: 30px;
+    
+  }
+  .about-div p{
+    padding-bottom: 20px;
+  }
+  .about-footer{
+    display: block; 
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 2px;
+    padding-left: 2px;
+
+  }
+  .img1 {
+    padding-bottom: 50px;
+
+  }
+  .s-img {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+
+  }
+  .f-img {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    padding-bottom: 10px;
+    
+
+  }
+  .footer-section-about {
+    background-color: #413f3f;
+    padding-left: 2px;
+  }
+  
 }

@@ -67,7 +67,6 @@ speakers.forEach((element, i) => {
     const thirdSection = document.querySelector('.third-section');
     const speakerCard = document.createElement('article');
     speakerCard.classList = 'featured-eotc';
-  
 
        
         const spCard = `<div class="grid-two-parts">
