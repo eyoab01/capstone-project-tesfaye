@@ -78,18 +78,29 @@ speakers.forEach((element, i) => {
             <h4 class="featured-info">${speakers[i].education}</h4>
             <p class="featured-details">${speakers[i].publication}</p>
         </div>
+         <div class="featured-text-holder">
+            <h3 class="featured-name">${speakers[i].spkrName}</h3>
+            <h4 class="featured-info">${speakers[i].education}</h4>
+            <p class="featured-details">${speakers[i].publication}</p>
+        </div> <div class="featured-text-holder">
+            <h3 class="featured-name">${speakers[i].spkrName}</h3>
+            <h4 class="featured-info">${speakers[i].education}</h4>
+            <p class="featured-details">${speakers[i].publication}</p>
+        </div> <div class="featured-text-holder">
+            <h3 class="featured-name">${speakers[i].spkrName}</h3>
+            <h4 class="featured-info">${speakers[i].education}</h4>
+            <p class="featured-details">${speakers[i].publication}</p>
+        </div> <div class="featured-text-holder">
+            <h3 class="featured-name">${speakers[i].spkrName}</h3>
+            <h4 class="featured-info">${speakers[i].education}</h4>
+            <p class="featured-details">${speakers[i].publication}</p>
+        </div> <div class="featured-text-holder">
+            <h3 class="featured-name">${speakers[i].spkrName}</h3>
+            <h4 class="featured-info">${speakers[i].education}</h4>
+            <p class="featured-details">${speakers[i].publication}</p>
+        </div>
     </div> 
 `;
     speakerCard.innerHTML += spCard;
     thirdSection.appendChild(speakerCard);
   });
-      
-
-
-
-
-
-
-
-
-
