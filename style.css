@@ -373,14 +373,15 @@ background-color: #f1f1f1;
   display: flex;
   background-color: #5a5959;
   display: flex;
-
+  position: static;
 }
 
 .copy h4{
   text-align: center;
   padding-left: 500px;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #c2c2c2;
 }
 @media (max-width: 768px) {
   /* speaker section */
