@@ -365,7 +365,23 @@ body {
   background-color: #272a31;
   padding-left: 150px;
 }
+.footer-div {
+background-color: #f1f1f1;
+}
 
+.copy {
+  display: flex;
+  background-color: #5a5959;
+  display: flex;
+
+}
+
+.copy h4{
+  text-align: center;
+  padding-left: 500px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 @media (max-width: 768px) {
   /* speaker section */
 
